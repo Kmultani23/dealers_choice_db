@@ -1,0 +1,23 @@
+{
+  "name": "dealers_choice_pg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "-": "^0.0.1",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "pg": "^8.5.0",
+    "y": "^0.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
